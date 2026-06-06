@@ -7,7 +7,7 @@ import pandas as pd
 # ==========================================
 DB_HOST = "aws-0-ap-southeast-1.pooler.supabase.com" # <-- GANTI DENGAN HOST ANDA
 DB_NAME = "postgres"
-DB_USER = "postgres.BuhLah123" # <-- GANTI DENGAN USERNAME ANDA
+DB_USER = "postgres.BuhLah12" # <-- GANTI DENGAN USERNAME ANDA
 DB_PASS = "Luthfi*1213" # <-- GANTI DENGAN PASSWORD ANDA
 DB_PORT = "6543"
 
