@@ -5,9 +5,9 @@ import pandas as pd
 # ==========================================
 # 1. KONFIGURASI DATABASE
 # ==========================================
-DB_HOST = "db.saxmypjqbdmgzxmzwtid.supabase.co" # <-- GANTI DENGAN HOST ANDA
+DB_HOST = "aws-1-ap-northeast-2.pooler.supabase.com" # <-- GANTI DENGAN HOST ANDA
 DB_NAME = "postgres"
-DB_USER = "postgres" # <-- GANTI DENGAN USERNAME ANDA
+DB_USER = "postgres.saxmypjqbdmgzxmzwtid" # <-- GANTI DENGAN USERNAME ANDA
 DB_PASS = "Luthfi*1213" # <-- GANTI DENGAN PASSWORD ANDA
 DB_PORT = "5432"
 
